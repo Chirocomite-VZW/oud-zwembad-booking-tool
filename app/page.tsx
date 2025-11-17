@@ -42,7 +42,7 @@ export default async function Home() {
                 </TabsTrigger>
                 <TabsTrigger value="general-info">
                   <Info className="mr-2 size-4" />
-                  Algemene Info
+                  Informatie
                 </TabsTrigger>
               </TabsList>
 
